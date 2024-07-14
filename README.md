@@ -2,7 +2,7 @@
 - ✏️ Santa Clara University, Web Design and Engineering, Class of 2026 
 - 👀 I’m interested in web development, design, social media, and swimmming. 
 - 🌱 I’m currently learning web development and web design!
-- -💻 Check out my most recent project: https://asgscu.edu
+- -💻 Check out my most recent project: https://asgscu.org
 - 📫 How to reach me, streamlinedev.org & Instagram @streamline.dev
 
 <!---
